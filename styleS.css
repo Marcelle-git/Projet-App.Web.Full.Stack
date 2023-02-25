@@ -1,0 +1,151 @@
+
+header {
+    background-color: #f30000;
+    box-shadow: 0 0 10px 0 #f40b0b;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .navbar-nav li {
+    margin-right: 30px;
+  }
+  
+  .navbar-nav li:last-child {
+    margin-right: 0;
+  }
+  
+  .hero-section {
+    background-color: #0080ff;
+    padding: 100px 0;
+  }
+  
+  .hero-section h1 {
+    font-size: 48px;
+    margin-bottom: 30px;
+  }
+  
+  .hero-section p {
+    font-size: 20px;
+    margin-bottom: 70px;
+  }
+  .features-section {
+    background-color: #b18989;
+    padding: 100px 6;
+  }
+  
+  .features-section h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .features-section .feature-box {
+    background-color: #034a0e;
+    border: 1px solid #14902f;
+    padding: 70px;
+    text-align: center;
+    height: 100%;
+  }
+  
+  .features-section .feature-box i {
+    color: #007bff;
+  }
+  
+  .features-section .feature-box h3 {
+    font-size: 24px;
+    margin-bottom: 50px;
+  }
+  
+  .features-section .feature-box p {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  
+  .pricing-section {
+    padding: 100px 0;
+  }
+  
+  .pricing-section h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .pricing-section .card-header {
+    background-color: #007bff;
+    color: #88701c;
+  }
+  
+  .pricing-section .card-text {
+    margin-bottom: 20px;
+  }
+  
+  .pricing-section .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .pricing-section .btn-primary:hover {
+    background-color: #0062cc;
+    border-color: #0062cc;
+  }
+  .contact-us-section {
+    padding: 100px 0;
+  }
+  
+  .contact-us-section h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .contact-us-section form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-us-section form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-section form .form-control {
+    border-radius: 0;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .contact-us-section form .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 0;
+  }
+  
+  .contact-us-section form .btn-primary:hover {
+    background-color: #0062cc;
+    border-color: #0062cc;
+  }
+  
+  .gradient-custom {
+    background: #fb93e6;
+    background: -webkit-linear-gradient(to bottom right, rgb(0, 0, 0), rgba(245, 87, 108, 1));
+    background: linear-gradient(to bottom right, #ffffff, #ffffff)
+    }
+    
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .200em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+    .gradient-custom1 {
+        background: radial-gradient(50% 123.47% at 50% 50%, #00ff94 0%, #720059 100%),
+          linear-gradient(121.28deg, #669600 0%, #ff0000 100%),
+          linear-gradient(360deg, #0029ff 0%, #8fff00 100%),
+          radial-gradient(100% 164.72% at 100% 100%, #6100ff 0%, #00ff57 100%),
+          radial-gradient(100% 148.07% at 0% 0%, #fff500 0%, #51d500 100%);
+        background-blend-mode: screen, color-dodge, overlay, difference, normal;
+      }  
+

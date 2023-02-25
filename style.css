@@ -1,0 +1,66 @@
+div>.monTitre{
+    color: white;
+    background-color: black;
+    width:100%;
+    position: absolute; 
+    right: 0.5px;
+    height: 70px;
+}
+
+.mynav{
+    width: 220px;
+}
+.ligne{
+    margin-top: 115px;
+}
+.ligne2{
+    position: absolute;
+    top: 350px;
+}
+
+
+.logo> img{
+    margin-top: 10px;
+    width: 110px;
+    height: 70px;
+}
+
+.boutons{
+    margin-top: 150px;
+    width: 1000px;
+    left: 140px;
+}
+/* .btnAdd{
+    cursor: pointer;
+    height: 10px;
+} */
+
+.lien{
+    text-decoration: none;
+    width: 250px;
+    display: block;
+    right: 50px;
+    height: 52px; 
+    background-color: #0D6EFD;
+}
+
+.boutons>.lien :hover{
+    box-shadow: inset 30px 20px 10px 7px;
+}
+
+.tableau{
+    margin-top: 50px;
+}
+
+.pagination{
+    margin-top: 36.5px;
+}
+
+div>.monTitre2{
+    color: white;
+    background-color: rgb(17, 17, 17);
+    width:100%;
+    position: absolute; 
+    right: 0.5px;
+    height: 48px;
+}
